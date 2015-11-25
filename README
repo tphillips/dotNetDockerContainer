@@ -1,0 +1,4 @@
+A functioning docker image based on linode/lamp
+
+Build this image with 
+sudo docker build -t=tphillips/dotnetcontainer .
